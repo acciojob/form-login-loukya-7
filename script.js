@@ -1,4 +1,4 @@
-function getFormValue() {
+function getFormvalue() {
   document.addEventListener('DOMContentLoaded', function() {
     const firstName = document.getElementById('fname').value;
     const lastName = document.getElementById('lname').value;
